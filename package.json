@@ -1,0 +1,19 @@
+{
+  "name": "vanilla",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "node-sass": "^6.0.1",
+    "vite": "^2.4.3"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.7",
+    "gsap": "^3.7.1",
+    "sass": "^1.36.0",
+    "scss": "^0.2.4"
+  }
+}
